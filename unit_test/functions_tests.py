@@ -1,9 +1,9 @@
 from unittest import TestCase, main
-# from Functions import Funcs
+from Functions import Funcs
 from random import choice
 
 
-class Funcs:
+class TempFuncs:
 
     @staticmethod
     def first_func():
