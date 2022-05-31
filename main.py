@@ -1,5 +1,5 @@
 from Functions import funcs
-
+hello from kate p *********************
 #Initialization of tasks list
 list_of_tasks = {}
 
